@@ -2,11 +2,11 @@
 This is an example project, showcasing how beautiful flutter web is!!!
 
 
-  <img src="https://github.com/Wizpna/flutter_web_example/blob/master/flutter%20web%201.png" width="350" title="Screenshot">
-    <img src="https://github.com/Wizpna/flutter_web_example/blob/master/flutter%20web%202.png" width="350" title="Screenshot">
-      <img src="https://github.com/Wizpna/flutter_web_example/blob/master/flutter%20web%203.png" width="350" title="Screenshot">
-        <img src="https://github.com/Wizpna/flutter_web_example/blob/master/flutter%20web%204.png" width="350" title="Screenshot">
-          <img src="https://github.com/Wizpna/flutter_web_example/blob/master/flutter%20web%20mobile%201.png" width="350" title="Screenshot">
+<img src="https://github.com/Wizpna/flutter_web_example/blob/master/flutter%20web%201.png"  title="Screenshot">
+<img src="https://github.com/Wizpna/flutter_web_example/blob/master/flutter%20web%202.png"  title="Screenshot">
+<img src="https://github.com/Wizpna/flutter_web_example/blob/master/flutter%20web%203.png"  title="Screenshot">
+<img src="https://github.com/Wizpna/flutter_web_example/blob/master/flutter%20web%204.png" title="Screenshot">
+<img src="https://github.com/Wizpna/flutter_web_example/blob/master/flutter%20web%20mobile%201.png" width="350" title="Screenshot">
             <img src="https://github.com/Wizpna/flutter_web_example/blob/master/flutter%20web%20mobile%202.png" width="350" title="Screenshot">
               <img src="https://github.com/Wizpna/flutter_web_example/blob/master/flutter%20web%20mobile%203.png" width="350" title="Screenshot">
                 <img src="https://github.com/Wizpna/flutter_web_example/blob/master/flutter%20web%20mobile%204.png" width="350" title="Screenshot">
